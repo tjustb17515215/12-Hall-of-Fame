@@ -1,0 +1,31 @@
+
+body{
+    height: 100%;
+    background: rgb(229, 233, 224) url(../picture/body.jpg) center fixed no-repeat;
+    z-index: 10000;
+    font-size: 12px;
+    filter:(20px)
+}
+
+
+
+
+.topBar{ 
+   height: 40px;
+   position: relative;
+}
+
+
+
+.typing{
+    font-size: small;
+    text-indent: 20%;
+    height: 20px;
+}
+
+
+
+.newList{
+    border: 2px solid black;
+    border-radius: 2;
+}
